@@ -79,7 +79,8 @@ function printQuote() {
     // add the </p> closed tag
     html += `</p>`;
     // get the id quote-box div, print the whole HTML string
-    return document.getElementById('quote-box').innerHTML = html;
+    let getQuote = document.getElementById('quote-box').innerHTML = html;
+    return getQuote;
   }
 
 
