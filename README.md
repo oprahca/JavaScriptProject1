@@ -2,4 +2,5 @@
 
 https://oprahca.github.io/JavaScriptProject1/
 <br>
-The project creating for the CSIS 3380 course to submit the assignment.
+The project creating for the CSIS 3380 course.
+The project is randomly showing the quotes when user clicking the button.
